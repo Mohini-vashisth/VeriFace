@@ -1,0 +1,7 @@
+tensorflow
+numpy
+opencv-python
+librosa
+tqdm
+matplotlib
+transformers
