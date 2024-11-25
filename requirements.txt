@@ -5,3 +5,8 @@ librosa
 tqdm
 matplotlib
 transformers
+tensorflow.keras.applications
+tensorflow.keras
+tensorflow.keras.models
+tensorflow.keras.layers
+tensorflow.keras.optimizers
