@@ -97,8 +97,8 @@ VeriFace/
 
 ## **Contact**
 
-- **Name:** Your Name  
-- **Email:** your-email@example.com  
-- **GitHub:** [github.com/your-username](https://github.com/your-username)
+- **Name:** Mohini Vashisth  
+- **Email:** mohinivashisth12@gmail.com 
+- **GitHub:** [github.com/Mohini-vashisth](https://github.com/Mohini-vashisth)
 
 ---
