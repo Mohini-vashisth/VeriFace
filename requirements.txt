@@ -1,2 +1,8 @@
 fastapi
 uvicorn[standard]
+
+numpy
+opencv-python-headless
+librosa
+soundfile
+pyyaml
