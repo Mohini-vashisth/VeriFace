@@ -1,2 +1,19 @@
-Dataset
+# Virtual environment
+.venv/
+
+# Datasets and cache
+data/
+*.csv
+*.mp4
+*.avi
+*.mkv
+*.wav
+
+# Model outputs
+checkpoints/
+runs/
+logs/
+
+# System files
 .DS_Store
+__pycache__/
